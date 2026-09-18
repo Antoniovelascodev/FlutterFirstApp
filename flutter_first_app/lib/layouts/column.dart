@@ -16,6 +16,7 @@ class ColumnExample extends StatelessWidget {
           Text('Antonio'),
           Text('Antonio'),
           Text('Antonio'),
+          Text('3:45:57 en el video de youtube')
         ],
       ),
     );
